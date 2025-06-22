@@ -74,7 +74,7 @@ This system analyzes live or uploaded network traffic, classifies packets using 
 ## 🚀 Get Started
 
 ```bash
-git clone https://github.com/your-username/nids-ml.git
+git clone https://github.com/Ejalandhar/major-project.git
 cd nids-ml
 pip install -r requirements.txt
 streamlit run app.py
